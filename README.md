@@ -11,6 +11,7 @@ Some of the workloads include:
 2. Executing complex workloads using Aritficial Intelligence such as text, image and video generation
 3. Designing plugins and applications for popular AI platforms, such as ChatGPT. (See ShockGPT)
 4. Automated acquisition, transcoding and streaming of media
+5. Geolocation and IOT sensor tracking
 
 ![image](https://github.com/DatadudeDev/Datacenter-At-Home/assets/132722687/ee968312-9df4-4e63-b0f2-8df36ec005f8)
 
