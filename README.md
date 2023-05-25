@@ -16,7 +16,7 @@ Some of the workloads include:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Datacenter is a cluster of 7 specialised servers which all work together to undertake extreme workloads. These servers are: 
+The Datacenter is a cluster of 8 specialised servers which all work together to undertake extreme workloads. These servers are: 
 
 1. A high performance virtualized router
 2. A fast network storage server
@@ -25,6 +25,7 @@ The Datacenter is a cluster of 7 specialised servers which all work together to 
 5. A Remote Management server (IPMI) 
 6. A tier 2 redundant backup storage server
 7. A tier 3 redundant backup storage server
+8. A smart Power Supply (UPS)
 
 ![image](https://github.com/DatadudeDev/Datacenter-At-Home/assets/132722687/c400d7f4-0b97-4467-90c8-eb86d6de7620)
 
